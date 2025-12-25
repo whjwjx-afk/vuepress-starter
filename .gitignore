@@ -1,1 +1,9 @@
 node_modules
+.temp
+.cache
+dist
+
+# VuePress 默认生成的临时文件夹
+docs/.vuepress/.temp
+docs/.vuepress/.cache
+docs/.vuepress/dist
